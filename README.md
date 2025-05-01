@@ -4,10 +4,24 @@ An online multiplayer Pong game built with **WebSocket**, **React**, and **Node.
 Challenge your friends in real-time and relive the retro arcade vibes — now in the browser!
 
 ## Preview
-<!-- Add screenshots here if available -->
+
+### Home Page
+![HomePage](assets/HomePage.png)
+
+### Room List
+![RoomeList](assets/RoomList.png)
+
+### Before Join Room
+![BeforeJoinRoom](assets/BeforeJoinRoom.png)
+
+### Game Page
+![GamePage](assets/GamePage.png)
+
+### Player Own Information
+![PlayerOwnInformation](assets/PlayerOwnInformation.png)
 
 ## 🌐 Live Demo
-Coming soon… (or drop your Vercel/Render link here!)
+- [Online Pong Game](https://nodejs-final-project-pong-game-front.onrender.com)
 
 ## 🚀 Features
 
@@ -24,7 +38,7 @@ Coming soon… (or drop your Vercel/Render link here!)
 | ------------ | ----------------------------- |
 | Frontend     | React, TypeScript, TailwindCSS |
 | Backend      | Node.js, Express, Socket.IO    |
-| Deployment   | Render, Vercel (optional)      |
+| Deployment   | Render      |
 
 ## 📂 Folder Structure
 
